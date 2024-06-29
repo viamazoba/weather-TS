@@ -20,6 +20,10 @@
     color: var(--white);
 }
 
+.field option {
+    background-color: #2b2d42;
+}
+
 .submit {
     cursor: pointer;
     background-color: var(--primary);
